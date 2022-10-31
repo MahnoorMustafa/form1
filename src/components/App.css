@@ -1,0 +1,65 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 1.666;
+  background: rgb(45, 43, 43);
+  color: #555;
+}
+.form1{
+  width: 75vh;
+  height: 80vh;
+  background-color:floralwhite;
+  position: relative;
+  left: 70vh;
+}
+h1 {
+  font-weight: 900;
+  font-size: 8vh;
+  text-align: center;
+  margin-top: 4rem;
+  color: rgb(129, 12, 12);
+  line-height: 1.1;
+}
+
+.Labels {
+  color: rgb(122, 28, 28);
+  font-family:Arial, Helvetica, sans-serif;
+  font-size:20px;
+  font-weight: 500;
+   position: relative;
+   left: 10px;
+   
+}
+
+
+input {
+  position:  relative;
+  display: block;
+  margin: 15px;
+  padding: 15px;
+  width: 420px;
+  height: 20px;
+}
+
+button{
+  position: relative;
+  left: 25vh;
+  top: 40px;
+  width: 120px;
+  height: 40px;
+  font-size: 20px;
+  background-color:purple;
+  color: aliceblue;
+}
+
+button:hover{
+   background-color: lightgrey;
+}
+
+.require {
+  position: relative;
+  left: 450px;
+  bottom: 60px;
+  color:rgb(153, 46, 46);
+  text-align: center;
+}
